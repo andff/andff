@@ -2,6 +2,8 @@
 <img align="center" height="250" src="https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif"/>
 </a></center>
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107127.87000659875!2d-38.579294998988075!3d-3.7746261929266494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c74c3f464c783f%3A0x4661c60a0c6b37ca!2sFortaleza%20-%20CE!5e0!3m2!1spt-BR!2sbr!4v1714147339702!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ### 👋 Bem-vindo | Herzlich Willkommen | Benvinguda | 迎 /Huānyíng | Bienvenido | Vitajte | Bienvenue | Maligayang pagdating | Tervetuloa | Fogadtatás | Welkom | Welcome | Benvenuto | Fáilte | Selamat | ようこそ | Nau mai | Velkommen | желанный  | Välkommen | Vítejte
 <Br>
