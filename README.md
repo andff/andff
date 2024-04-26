@@ -1,3 +1,6 @@
+![alt text](https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif)
+<img align="right" height="150" src="https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif"  />
+
 ### 👋 Bem-vindo | Herzlich Willkommen | Benvinguda | 迎 /Huānyíng | Bienvenido | Vitajte | Bienvenue | Maligayang pagdating | Tervetuloa | Fogadtatás | Welkom | Welcome | Benvenuto | Fáilte | Selamat | ようこそ | Nau mai | Velkommen | желанный  | Välkommen | Vítejte
 <Br>
  ⚙️ @andff <a href="https://www.instagram.com/andff" alt="Instagram" target="_blank">
@@ -63,12 +66,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andff&layout=compact)](https://github.com/andff/github-readme-stats)
 
 <br>
-
-###
-![alt text](https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif)
-<img align="right" height="150" src="https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
