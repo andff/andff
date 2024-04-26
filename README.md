@@ -2,27 +2,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/andff">
 </a> <br>
 
-## Diagramas do Mermaid
-
-O Mermaid é uma ferramenta inspirada em Markdown que transforma texto em diagramas. Por exemplo, o Mermaid pode interpretar gráficos de fluxo, diagramas de sequência, gráficos de pizza e muito mais.
-
-Para criar um diagrama do Mermaid, adicione a sintaxe do Mermaid dentro de um bloco de código isolado com o identificador de linguagem mermaid. 
-
-Por exemplo, você pode criar um fluxograma especificando valores e setas.
-
-Here is a simple flow chart:
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-## Mapas
-
-É possível usar a sintaxe GeoJSON ou TopoJSON para criar mapas interativos. Para criar um mapa, adicione GeoJSON ou TopoJSON em um bloco de código protegido com o identificador de sintaxe geojson ou topojson. 
 
 ```geojson
 {
