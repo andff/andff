@@ -1,20 +1,9 @@
-### 👋 🇧🇷 Bem-vindo | Herzlich Willkommen | Benvinguda | 迎 /Huānyíng | Bienvenido | Vitajte | Bienvenue | Maligayang pagdating | Tervetuloa | Fogadtatás | Welkom | Welcome | Benvenuto | Fáilte | Selamat | ようこそ | Nau mai | Velkommen | желанный  | Välkommen | Vítejte
+### 👋 Bem-vindo | Herzlich Willkommen | Benvinguda | 迎 /Huānyíng | Bienvenido | Vitajte | Bienvenue | Maligayang pagdating | Tervetuloa | Fogadtatás | Welkom | Welcome | Benvenuto | Fáilte | Selamat | ようこそ | Nau mai | Velkommen | желанный  | Välkommen | Vítejte
 <Br>
  ⚙️ @andff <a href="https://www.instagram.com/andff" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/andff">
 </a>
 
-## Seção recolhida
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-<br>
 <table>
   <tr>
     <td>
