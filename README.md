@@ -1,4 +1,4 @@
-<img align="center" height="150" src="https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif"  />
+<img align="center" height="250" src="https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif"  />
 
 ### 👋 Bem-vindo | Herzlich Willkommen | Benvinguda | 迎 /Huānyíng | Bienvenido | Vitajte | Bienvenue | Maligayang pagdating | Tervetuloa | Fogadtatás | Welkom | Welcome | Benvenuto | Fáilte | Selamat | ようこそ | Nau mai | Velkommen | желанный  | Välkommen | Vítejte
 <Br>
