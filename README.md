@@ -2,7 +2,7 @@
 
 ### 👋 Bem-vindo | Herzlich Willkommen | Benvinguda | 迎 /Huānyíng | Bienvenido | Vitajte | Bienvenue | Maligayang pagdating | Tervetuloa | Fogadtatás | Welkom | Welcome | Benvenuto | Fáilte | Selamat | ようこそ | Nau mai | Velkommen | желанный  | Välkommen | Vítejte
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -30,7 +30,9 @@
 </div>
 
 <!-- GIF SKULL -->
+<div align="center">
 <a href="https://github.com/andff"><img align="center" height="250" src="https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif"/></a>
+</div>
 ---
 <!-- ESTATÍSTICAS -->
 ### 🏆 GitHub Stats (Minhas Estatísticas)
