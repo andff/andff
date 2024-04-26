@@ -1,49 +1,6 @@
 👋 @ andff <a href="https://www.instagram.com/andff" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/andff">
-</a> <br>
-
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -90,
-              35
-            ],
-            [
-              -90,
-              30
-            ],
-            [
-              -85,
-              30
-            ],
-            [
-              -85,
-              35
-            ],
-            [
-              -90,
-              35
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+</a>
 <br>
 ### ⚙️ GitHub Analytics
 <table>
