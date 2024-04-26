@@ -63,6 +63,5 @@
   <img src="https://profile-counter.glitch.me/iuricode/count.svg" alt="Número de visitantes no perfil"/>
 </p>
 
-<p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andff&layout=compact)](https://github.com/andff/github-readme-stats)
-</p>
