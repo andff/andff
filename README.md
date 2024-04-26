@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif)"  />
 
 ###
 
