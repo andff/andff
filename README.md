@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **andff/andff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-              - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
-            
