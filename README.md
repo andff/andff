@@ -1,12 +1,11 @@
-<!-- Imagens de redes sociais -->
+<!-- GIF SKULL -->
+<div align="center">
+<img align="center" height="250" src="https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif"/>
+</div>
 
 ### 👋 Bem-vindo | Herzlich Willkommen | Benvinguda | 迎 /Huānyíng | Bienvenido | Vitajte | Bienvenue | Maligayang pagdating | Tervetuloa | Fogadtatás | Welkom | Welcome | Benvenuto | Fáilte | Selamat | ようこそ | Nau mai | Velkommen | желанный  | Välkommen | Vítejte
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andff&label=Profile%20views&color=0e75b6&style=flat" alt="andff" /> </p>
-
-###
-
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=andff&label=Profile%20views&color=0e75b6&style=flat"/></p>
 
 <h3 align="center">Formas de contato:</h3>
 <p align="center">
@@ -67,10 +66,7 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 </p>
 
-<!-- GIF SKULL -->
-<div align="center">
-<img align="center" height="250" src="https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif"/>
-</div>
+
 ---
 <!-- ESTATÍSTICAS -->
 ### 🏆 GitHub Stats (Minhas Estatísticas)
