@@ -70,25 +70,19 @@
     <td>
       <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andff&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
     </td>
+
+  </tr>
+  <tr>
     <td>
-      <br />
-      <img align="left" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=andff&theme=dark&hide_border=false"/>
+<img align="left" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=andff&theme=dark&hide_border=false"/>
     </td>
+    <td>
+s
+    </td>
+
   </tr>
 </table>
 
-### 1
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andff&show_icons=true&locale=en&layout=compact" alt="andff" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andff&show_icons=true&locale=en" alt="andff" /></p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andff&show_icons=true&locale=en&layout=compact" alt="andff" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andff&show_icons=true&locale=en" alt="andff" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andff&" alt="andff" /></p>
 
 
 ### 2
