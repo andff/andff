@@ -1,9 +1,11 @@
 <!-- GIF SKULL -->
-<div align="center">
-<img align="center" height="250" src="https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif"/>
-</div>
+
 
 ### 👋 Bem-vindo | Herzlich Willkommen | Benvinguda | 迎 /Huānyíng | Bienvenido | Vitajte | Bienvenue | Maligayang pagdating | Tervetuloa | Fogadtatás | Welkom | Welcome | Benvenuto | Fáilte | Selamat | ようこそ | Nau mai | Velkommen | желанный  | Välkommen | Vítejte
+
+<div align="center">
+  <img align="center" height="250" src="https://skulldesign.com.br/wp-content/uploads/2023/12/Sequencia-01.gif"/>
+</div>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=andff&label=Profile%20views&color=0e75b6&style=flat"/></p>
 
