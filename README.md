@@ -73,13 +73,9 @@
 
   </tr>
   <tr>
-    <td>
-<img align="left" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=andff&theme=dark&hide_border=false"/>
+    <td colspan="2" align="center">
+        <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=andff&theme=dark&hide_border=false"/>
     </td>
-    <td>
-s
-    </td>
-
   </tr>
 </table>
 
