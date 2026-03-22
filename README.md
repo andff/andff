@@ -2,7 +2,7 @@
 
 ### 👋 Bem-vindo | Herzlich Willkommen | Benvinguda | 迎 /Huānyíng | Bienvenido | Vitajte | Bienvenue | Maligayang pagdating | Tervetuloa | Fogadtatás | Welkom | Welcome | Benvenuto | Fáilte | Selamat | ようこそ | Nau mai | Velkommen | желанный  | Välkommen | Vítejte
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andff&label=Profile%20views&color=0e75b6&style=flat" alt="andff" /> </p>
 
 ###
 
@@ -77,30 +77,12 @@
   </tr>
 </table>
 
-### 🏆 GitHub Profile Trophy (Meus Troféus)
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="repositório de troféus">
-    <img width="800" src="https://github-profile-trophy-liard-delta.vercel.app/?username=andff"/></a>
-</p>asda
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=andff)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
 ###
-
-<div align="center"><h3><b>📍 Profile Visitor Count (Contagem de visitantes do perfil)</b></h3></div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/iuricode/count.svg" alt="Número de visitantes no perfil"/>
-</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andff&layout=compact)](https://github.com/andff/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andff&label=Profile%20views&color=0e75b6&style=flat" alt="andff" /> </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andff&show_icons=true&locale=en&layout=compact" alt="andff" /></p>
