@@ -11,6 +11,7 @@
 <h3 align="center">Formas de contato:</h3>
 <p align="center">
 <a href="https://twitter.com/andffbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andffbr" height="30" width="40" /></a>
+
 <a href="https://fb.com/andffbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andffbr" height="30" width="40" /></a>
 <a href="https://instagram.com/andff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andff" height="30" width="40" /></a>
 
