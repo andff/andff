@@ -64,23 +64,23 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" alt="css3" height="40"/>
+<img src="https://skillicons.dev/icons?i=express" alt="express" height="40"/>
+<img src="https://skillicons.dev/icons?i=firebase" alt="firebase" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" alt="git" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" alt="html5" height="40"/>
+<img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" height="40"/>
+<img src="https://skillicons.dev/icons?i=laravel" alt="laravel" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" height="40"/>
+<img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="40"/>
+<img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" height="40"/>
+<img src="https://skillicons.dev/icons?i=py" alt="python" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" alt="react" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" alt="reactnative" height="40"/>
+<img src="https://skillicons.dev/icons?i=unity" alt="unity" height="40"/>
 
 </p>
 
